@@ -1,5 +1,5 @@
-#🪻  Stephany Linhares
-
+# 🪻  Stephany Linhares
+--
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
